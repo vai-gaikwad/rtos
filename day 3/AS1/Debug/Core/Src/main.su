@@ -1,0 +1,8 @@
+../Core/Src/main.c:59:6:red	16	static
+../Core/Src/main.c:69:6:blue	24	static
+../Core/Src/main.c:79:6:green	16	static
+../Core/Src/main.c:89:6:orange	24	static
+../Core/Src/main.c:106:5:main	24	static
+../Core/Src/main.c:163:6:SystemClock_Config	88	static
+../Core/Src/main.c:210:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:241:6:Error_Handler	4	static,ignoring_inline_asm
